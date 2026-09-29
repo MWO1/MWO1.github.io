@@ -1,4 +1,4 @@
-# Hushwater website (https://mwo1.github.io)
+# Hushwater website (https://hushwatergame.com)
 
 Source lives in the private game repo (`site/`); it is published to the public repo `MWO1/MWO1.github.io`
 with `bash tools/site/publish.sh`. Pages: home, privacy, terms, support (built from game/data/help.json by
